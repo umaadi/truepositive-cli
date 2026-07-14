@@ -1,5 +1,5 @@
 {
-  "name": "truepositive-cli",
+  "name": "truepositive",
   "version": "0.1.0",
   "description": "Is that CVE real, or scanner noise? Check field verdicts from truepositive.app, in your terminal.",
   "keywords": [

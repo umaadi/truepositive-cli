@@ -61,7 +61,7 @@ npx truepositive CVE-2021-44228
 Or install it globally:
 
 ```bash
-npm install -g truepositive-cli
+npm install -g truepositive
 truepositive CVE-2021-44228
 ```
 
