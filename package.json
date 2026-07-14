@@ -1,0 +1,41 @@
+{
+  "name": "truepositive-cli",
+  "version": "0.1.0",
+  "description": "Is that CVE real, or scanner noise? Check field verdicts from truepositive.app, in your terminal.",
+  "keywords": [
+    "cve",
+    "vulnerability",
+    "vulnerability-management",
+    "security",
+    "triage",
+    "false-positive",
+    "kev",
+    "epss",
+    "devsecops",
+    "appsec",
+    "scanner",
+    "cli"
+  ],
+  "homepage": "https://www.truepositive.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaadi/truepositive-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/umaadi/truepositive-cli/issues"
+  },
+  "license": "MIT",
+  "author": "Umaadi",
+  "type": "module",
+  "bin": {
+    "truepositive": "bin/truepositive.js"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
